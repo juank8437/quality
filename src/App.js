@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aprendamos React
+          Aprendamos React, ahora que ya pudimos desplegar el sitio en Netlify
         </a>
       </header>
     </div>
